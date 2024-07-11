@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.new{
+    width: 60vw;
+    height: 80vh;
+    background-color: rgba(0, 0, 0, 0.644);
+    text-align: center;
+    color: white;
+    
+}
+img{
+    width: 60%;
+    height: 60%;
+    object-position: center;
+    object-fit: cover;
+    /* object-fit: he; */
+}
